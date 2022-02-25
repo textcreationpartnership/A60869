@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some thoughts about trade</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60869</idno>
+            <idno type="STC">Wing S4626</idno>
+            <idno type="STC">ESTC R217699</idno>
+            <idno type="EEBO-CITATION">99829352</idno>
+            <idno type="PROQUEST">99829352</idno>
+            <idno type="VID">33789</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60869)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33789)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2135:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some thoughts about trade</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London,</pubPlace>
+                  <date>1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from and date conjectured by Wing.</note>
+                  <note>On "the more effectual preventing and punishing unlawful and clandestine trading".</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trade regulations --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+               <term>Great Britain --  Commercial policy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:33789:1"/>
+            <!-- PDF PAGE 65 -->
+            <pb n="1" facs="tcp:33789:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 65 -->
+            <head>SOME THOUGHTS ABOUT TRADE.</head>
+            <p>HIS Majeſty having in His moſt Gracious Speech to both Houſes in Parliament recommended to them the Care of Trade, and favour'd it Himſelf with His Propoſal of a Bill, <hi>For the more effectual Preventing and Puniſhing Unlawful and Clandestine Trading, which does not onely tend to de<g ref="char:EOLhyphen"/>fraud the Publick, but prejudice the Fair Merchant;</hi> it will be deem'd, I hope, a pardonable Preſumption in me, to offer a few Words towards attaining that great and happy end. And I am per<g ref="char:EOLhyphen"/>ſwaded, that ſince His Majeſty in this Royal Care, has continued to evince Himſelf truly a Father of His People, it muſt endear Him to them, and cannot reaſonably fail of commanding the Title of <hi>Deliciae humani generis,</hi> as he much more deſerves it, than even that great <hi>Roman</hi> Emperor it was firſt Aſcrib'd to. Nor is it to be imagin'd, That this Conſideration can miſs of diſpoſing that Auguſt Aſſembly to a ſolid, and unbiaſs'd Poiſure of all Propoſals to that purpoſe laid before them. Mine may be the moſt incon<g ref="char:EOLhyphen"/>ſiderable, but as none can be offer'd with greater Sincerity, or well-meaning, ſo perhaps they may furniſh wiſer Heads with ſomewhat to work upon.</p>
+            <p>☞ <hi>There are a ſort of Gentlemen who underſtand not much of Trade, and mind little beſide their Pleaſure; that exclaim againſt it, and take great pains to ſhow to the World they care not how it is loaded: But to
+<pb facs="tcp:33789:2"/>
+                  <!-- PDF PAGE 66 -->
+                  <pb n="1" facs="tcp:33789:2" rendition="simple:additions"/>
+                  <!-- PDF PAGE 66 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:33789:3"/>
+                  <!-- PDF PAGE 67 -->leave them ſafe in their humour, ſince it is not perhaps the only Inſtance of their Indiſcretion, I will advance theſe Propoſitions as things ſo plain, that they themſelves cannot be ſo hardy to deny.</hi>
+            </p>
+            <list>
+               <item>1ſt. <hi>That Trade is the Foundation of the</hi> Engliſh <hi>Happineſs, and the very Baſis of the Government.</hi>
+               </item>
+               <item>2dly, <hi>That to make it thoroughly beneficial, it ought to be made</hi>
+                  <list>
+                     <item>1ſt. Eaſy.</item>
+                     <item>2dly, Extenſive.</item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <hi>If theſe Propoſitions be true, as undoubtedly they are; the Truth of the firſt being never called in Queſtion ſince we knew what Trade was in</hi> England, <hi>and the laſt to be made out in the following Lines, I think that man can be ſaid to have little of the Soul of an</hi> Engliſh-man, <hi>or worthy any Countenance of the Government or People, who makes ſlight of this National Concern; and it is not to be doubted but thoſe Illuſtrious Truſtees of the People, as they have begun, will go on to ſhow theſe miſta<g ref="char:EOLhyphen"/>ken Gentlemen, that the Safety of that is of the firſt Importance to the Pub<g ref="char:EOLhyphen"/>lick Safety.</hi>
+            </p>
+            <p>It were to be wiſht it could be made eaſier in its Duties, that we might be able to under-ſell all our Rival Neighbours, than which nothing could be more Honourable or Advantagious. By clogging our Trade we certainly lay more than what we have long ſeem'd to apprehend, a general Exciſe upon our ſelves; and if we ſeem to be inſenſible of it, perhaps it is becauſe the Gene<g ref="char:EOLhyphen"/>rality of our Gentry keeping no Accounts, they flatter them<g ref="char:EOLhyphen"/>ſelves they are in the right; when upon a nice Scrutiny, it would be found they pay three for two: But if this is not to be obtained, yet that Trade ought to be made eaſier in Diſpatch, and freed from Incumbrances that way, is as undoubtedly true as it is practicable—</p>
+            <p>If Buſineſs be interrupted or obſtructed in the beginning, our <hi>Engliſh</hi> Proverb ſays, <hi>It can never conclude well.</hi> Common Expe<g ref="char:EOLhyphen"/>rience tells us, That Fountains of a foul Head rarely, if ever, pro<g ref="char:EOLhyphen"/>duce a clear Stream; and therefore I hold my ſelf oblig'd, to re<g ref="char:EOLhyphen"/>commend firſt of all an Examination into the Abuſes of the <hi>Cuſtom-Houſe.</hi> Foreigners as well as we, have and do daily com<g ref="char:EOLhyphen"/>plain of the Difficulties that attend the Diſpatch of Buſineſs there: And it muſt be own'd, that tho' no <hi>Cuſtom-Houſe</hi> in <hi>Europe</hi> is ſo well adapted, and tho' we want not Laws that threaten Puniſh<g ref="char:EOLhyphen"/>ment to Offenders; yet there is no Country of Trade, that does not exceed us in quick Diſpatch, or honeſt Execution.</p>
+            <p>
+               <pb n="3" facs="tcp:33789:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 67 -->
+The Cauſe of theſe Evils I take to be want of Integrity, and want of Power. The firſt in moſt of the Officers belonging to that Place, and the laſt in that Honourable Board; who <hi>formerly</hi> on Application, have told the Injur'd Merchant, That they ſate not there to hear Cauſes, but to ſee the King's Cuſtoms maintain'd: Not to ſave the Merchant from the Encroachments of the Patent Officer, or others; but to preſerve the Officers in their Encroach<g ref="char:EOLhyphen"/>ment, and encourage them in the Continuance thereof. Now, if this be true, that the Merchant muſt either be liable to the Exa<g ref="char:EOLhyphen"/>ctions of their Officers, or be referr'd to the Law; I think it may eaſily be determined which is moſt reaſonable for him to chuſe, tho' certainly it is no great Encouragement to Trade. There is ſcarce any one particular Fee ordered by the Book of Rates, that is not advanc'd by the Patent and other Officers a Third Part: And yet it is ſo ſmall in every Man's Particular, and they have in their Power ſuch ways of venting their Diſpleaſure, for want of a higher Power to controul them, that few Men dare ſtand the Teſt, or when they have ſo, have found Relief anſwerable. Our wiſe Fore-fathers provided againſt theſe Encroachments (to which Mankind is indeed but too much addicted) by ſevere Laws and wiſe Precautions: No Man then was allow'd his Place for Life, good Behaviour only had its juſt Reward, and under the King's Patent, Men ſate not to inſult the beſt of the King's Subjects. He that conſults the following Statutes, 5 &amp; 6 <hi>Ed.</hi> 6.16. 1 <hi>H.</hi> 4.13. 4 <hi>H.</hi> 4.20. 13 <hi>H.</hi> 4.5. 1 <hi>H.</hi> 4.13.17. <hi>R.</hi> 2.5.14. <hi>R.</hi> 2.10.4. <hi>H.</hi> 4.24.31. <hi>H.</hi> 6.5.31. <hi>H.</hi> 6.5.14. <hi>R.</hi> 2.20.17. <hi>R.</hi> 2.5. will find how careful they were to encourage the Mer<g ref="char:EOLhyphen"/>chant, and keep him from the Encroachments of the King's Officers. Miſdemeanour by Miſmanagement was then puniſh'd with loſs of Office; and nothing leſs can eradicate this Evil, ſo ſcandalous to the Nation and Government. It's true, a late Parliament provided in ſome meaſure againſt it, but by not thus neceſſarily enforcing it, Mens Avarice rendred it ineffectual: For while the Book was warm with their Lips, they perſiſted in their old ways at the hazard of an Indictment of Perjury. But I hope for a Review, and therefore their Abuſes being too numerous, and conſequently not conſiſtent with the Brevity of a Paper of this Nature, I ſhall leave them till that Honourable Aſ<g ref="char:EOLhyphen"/>ſembly ſhall call for them; when, I hope, by enforcing the Pe<g ref="char:EOLhyphen"/>nalties to an utter Incapacity of ſerving in any Place of the Go<g ref="char:EOLhyphen"/>vernment, and by making the Commiſſioners (as they were cer<g ref="char:EOLhyphen"/>tainly intended) Overſeers of their Under Officers, and ſuch as
+<pb n="4" facs="tcp:33789:4"/>
+               <!-- PDF PAGE 68 -->are to take Care, that Right may be done to the Merchant, at the ſame time they take Care that Juſtice be done to the King in the Payment of His Duties, this great Evil may have a Re<g ref="char:EOLhyphen"/>medy to the Honour of the Nation, as well as Quiet of the Mer<g ref="char:EOLhyphen"/>chant.</p>
+            <p>I wiſh it were not more difficult to make Trade extenſive, than it is to make it eaſie: But I am ſenſible I ſhall have a large, tho' not very conſiderable Party to cope againſt in my Propoſal of Extenſion, notwithſtanding I believe the other will be aſſented to by all. Tho' I am ſatisfied confining the Trade to a few, is an Error of the firſt Concoction, yet I am as well ſatisfied, confining it to its juſt Number will be as beneficial. I mean, not by a juſt Number, any ſet Number of Perſons: But my meaning is, That thoſe onely, who have been, or ſhall be bred up as Merchants, ſhall follow it, and that all other Tradeſmen ſhall be confin'd to their particular Callings, as they were educated. If I miſtake not, we are not without Laws to this good Purpoſe; but like other good Laws, their Antiquity makes them exploded. But however, I doubt not to make it evident, that it is the Intereſt of the Nation ſo to confine Trade, and that ſuch a Confinement is the moſt probable way to make it more extenſive. This may be thought a Paradox; but if People lay aſide their Prejudices, I doubt not but it will be found a true one.</p>
+            <p>I know it is a Maxim, and in a great meaſure a true one; that it is for the Intereſt of the Nation to have all Goods ſold cheap at our own Market. ☞ Tho' whether it conſiſts with the Intereſt of the Nation, to incourage the Conſumption of any Foreign Commodities by ſuch a Cheapneſs, will bear a Queſtion: Or, in Strictneſs of Argument, it will not bear a Queſtion; it being un<g ref="char:EOLhyphen"/>deniably true, that the leſs we conſume of Foreign Commodities, the richer we are. But granting it to be true, that it is agreeable to the Intereſt of the Nation, that all Goods be ſold cheap at our own Market; it is true with equal Reaſon, that it is as much againſt the Intereſt of the Nation that all its own Manufactures and Exportations of Foreign Goods ſhould be ſold over cheap, and often with a Loſs at Foreign Markets. It will be obvious to a com<g ref="char:EOLhyphen"/>mon Underſtanding, that here the Loſs is double; and how any Merchant can long ſubſiſt under ſuch Circumſtances, to me is a Riddle. Small Profits they may ſet down with, if their Stocks be conſiderable: But Loſs upon Loſs will certainly eat through his Principal. That this is the Conſequence of every Tradeſman's running from his proper Buſineſs, will appear to any Man that half
+<pb n="5" facs="tcp:33789:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 68 -->conſiders the Matter; and it is as evident, that the Conſequence of that will be the Loſs of, and in time an utter Ruine to Trade. If a Calculation were to be made of Families that have been ruin'd by not applying themſelves to the Buſineſs they were bred in, but running into Trades they never underſtood, I doubt not it would cloſe the Argument. Now the Ruine of Families is the Ruine of Trade; for a Country can onely be ſaid to be rich or poor, as the Inhabitants are either: Nor does one Man, commonly ſpeaking, fall alone, but many with him; and therefore the Loſs of a con<g ref="char:EOLhyphen"/>ſiderable Merchant falls not on particular Perſons, but on the Publick.</p>
+            <p>Nor is that true, which is common in many Peoples Mouths, that ſuch a Reſtraint of Trade would be very detrimental to the Publick Revenues: For tho' it is literally true, that the larger the Importations are, the larger are the Cuſtoms, thoſe encreaſing by the Increaſe of Traders; yet in the Caſe in hand, it is an Errour rais'd by ſuch as underſtand not the Nature of Trade, ſo well as their imaginary Intereſts. For ſhould we grant that theſe Under<g ref="char:EOLhyphen"/>jobbers do increaſe the Cuſtoms by their Importations; yet it muſt be granted again, that by their clogging the Market, and forcing the Fair Merchant to ſeek a Market in Foreign Countries; the In<g ref="char:EOLhyphen"/>convenience much ſurmounts the Advantage. For while theſe Under jobbers are forc'd to ſell at our own Market, for want of preſent Money, at what Rates they can get, and at a very great Loſs; and the Fair Merchant to avoid this Loſs, is forc'd to take Refuge at a Foreign Market, where he gets nothing: It is plain, the King loſes the Duty drawn back, the Fair Merchant the In<g ref="char:EOLhyphen"/>tereſt of his Money, the Under jobber almoſt his Principal, and the Nation in all. Beſides, by theſe Under jobbers the Fair Mer<g ref="char:EOLhyphen"/>chant, whoſe Dependance is wholly upon his Trade, as all Mens ought to be on what they were educated under, is by the means afore hinted at, often ruin'd; or at beſt, diſcourag'd ſo much, that he chuſes to lay by his Stock; and conſequently the Revenue loſes as much by this one Man's prudential Precaution, as it gets by a Hundred of thoſe ſmall Adventurers imprudent ventring at all.</p>
+            <p>If it be duely weigh'd in all its Circumſtances, this cannot be thought the leaſt of the Evils attending Trade, and which diſcou<g ref="char:EOLhyphen"/>raging the Fair Merchant, requires Redreſs as much as any: For what Wrong can any pretend, from his being confin'd to his par<g ref="char:EOLhyphen"/>ticular Calling? Certainly it cannot be thought to be at all unrea<g ref="char:EOLhyphen"/>ſonable, that he that runs the Danger ought to reap the Profit. I
+<pb n="6" facs="tcp:33789:5"/>
+               <!-- PDF PAGE 69 -->am ſure as many make uſe of Trade, it is only preſerving them from being in a Politick Senſe, <hi>Felos de ſe.</hi> But on the other hand, their interfering in the Fair Merchant's Buſineſs, is in a manner, an Invaſion of his Right and Property.</p>
+            <p>☞ If a Tradeſman be allow'd to turn Merchant on one ſide onely, and to order his own Wares, either Linens, Druggs, or Wines, to be ſhipt for him, and the Value to be drawn in Bills of Exchange on him, I would fain know.</p>
+            <list>
+               <item>1ſt. What Encouragement has the Fair Merchant, who exports the Manufacture of the Nation: And</item>
+               <item>2dly, Whether the Under jobbing Merchant ought to be encou<g ref="char:EOLhyphen"/>rag'd, for not exporting any of the Manufactures of the Nation: ☞ For 'tis as plain as any Propoſition in <hi>Euclid,</hi> that what is import<g ref="char:EOLhyphen"/>ed into the Nation, not being the Product of our Exportations, is a Diſadvantage to the Nation, and the greateſt Diſcouragement to Trade. And if every Tradeſman may have Liberty to order his own Goods, what ſhall the Fair Merchant, who by exporting our own Manufactures gives a double Advantage to the Nation, and therefore deſerves the utmoſt Encouragement, what ſhall he, I ſay, make his Returns in? Or, where ſhall be find a Marke? Beſides, it is in a great meaſure to ſuch mean-ſpirited Souls as theſe, that we owe that Grievance complain'd of by His Majeſty in His moſt Gracious Speech to both Houſes, the running of Goods: For tho' ſome Mens Avarice (the Root of all bad Principles) may have led them to have done things unworthy the Name of a Merchant, and which deſerv'd the greateſt Contumely and Shame; yet it is here that Vice has ſpread, and what others have ſhamefully attain'd to by Bribes, theſe by an inborn Audacity and a natural Familiarity with thoſe of their own low Quality, have promoted the Trade very conſiderably.</item>
+            </list>
+            <p>Undoubtedly, as this Vice ought to be timely provided againſt, ſo one great and likely way to do ſo, would be to provide againſt the Trading of all, who have other Callings, under which they were bred, and therefore ought to get their Livelyhoods by. I am ſure, that low Ebb that Trade is run to (eſpecially in the <hi>Planta<g ref="char:EOLhyphen"/>tions</hi>) calls for the ſpeedieſt Care, unleſs we are willing to loſe at a Lump thoſe Advantages we have been Years attaining to.</p>
+            <p>Clandeſtine Trade (in this ſevereſt Acceptation) (for 'tis as I have ſhew'd, clandeſtine in the other) is of a dangerous Conſe<g ref="char:EOLhyphen"/>quence to Trade in general. Thoſe that have us'd it, were never
+<pb n="7" facs="tcp:33789:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 69 -->valu'd by Perſons of Integrity. And tho' one in an Age may have been ſaid to have got an Eſtate under it, the Number that found it unthriving is ſo much greater, that if a Man had the Gift of Conſi<g ref="char:EOLhyphen"/>deration, that of it ſelf were enough to put it out of Countenance: But hope of Succeſs and Expectation of Gain, will not allow thoſe fr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ileſt of Men to be wiſe; and therefore it is to be hoped, the Parliament will provide againſt it by ſevere Penalties this Seſſion. For by means of this Knaviſh Practice, the Fair Merchant is not able to ſell with theſe Vermine; who by having their Creatures at private Ports, and running their Goods in private Creeks, ſave the King's Duty (as they phraſe it) and may conſequently under-ſell the Fair Merchant very conſiderably. In my Opinion, there is not a Puniſhment great enough for ſuch Wretches. The <hi>Romans</hi> made a Crime againſt the State, Death; and a Man that acted a<g ref="char:EOLhyphen"/>gainſt the Intereſt of his Country, was puniſh'd with the greateſt Ignominy. The Preſent King of <hi>Perſia</hi>'s Father detecting a Baker and a Fleſh-Roaſter in the Publick Market, of Fraud, ordered the one to be roaſted, and the other to be baked, publickly. If they for cheating a private Perſon (as he to them appear'd) ſuffered ſuch Ignominy as well as Pain; what is due to them who cheat their Country? We are in a Chriſtian Nation 'tis true, where ſuch Bar<g ref="char:EOLhyphen"/>barities will, I hope, never have Place: But the <hi>Tallio</hi> of the <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> was a very good Law. Nor is it altogether impracticable with us; for I find in an Act of 14 <hi>Car.</hi> 2. That any Perſon found guilty of tranſporting Hides to any other Places than as provided in that Act, was by the ſame diſabl'd for the future, to Trade in that Commodity, and ſeverely fined. If the Act were a little ex<g ref="char:EOLhyphen"/>tended here, and the Perſon found guilty, condemn'd never to uſe any Trade but a Handy craft, it would be ſomewhat conformable to the <hi>Lex Talionis,</hi> and not in any great matter, differ from the Act of King <hi>Charles.</hi>
+            </p>
+            <p>But perhaps it would not be amiſs to confiſcate his Eſtate, one half to the King, and one half to the Diſcoverer, be he who he will; and by all means, to enforce the Juſtice of Peace to iſſue out his Warrant for a ſpeedy Seizure. We ſee in the Act <hi>againſt the Expor<g ref="char:EOLhyphen"/>tation of Wooll,</hi> what Encouragement is given: Greater ſhould be given here, becauſe the Duties being great, the running Gentlemen can be more liberal in their Bribes and Gratuities. Nor ſhould the Puniſhment of an Officer that is conniving or abetting, be leſs than in former Caſes, an utter Deprivation of all the Offices he at that preſent does enjoy, and a total Incapacity for the Enjoyment of any other for the future.</p>
+            <p>
+               <pb n="8" facs="tcp:33789:6"/>
+               <!-- PDF PAGE 70 -->
+I cannot ſee that any material Objection can be made againſt any thing I have ſaid. I have made it plain, I think, that Trade ought to be made eaſy: And that to make it ſo, the Merchant ought to meet with no Incumbrances at the Fountain Head. I think I have made out too, the Nature of the Extenſion of the Trade that is conſiſtent with the Intereſt of the Nation; and that it does not depend ſo much upon the Multitude, as the Ability of Merchants: For tho' the firſt may bring Plenty, and make things cheap, it is ſuch a Cheapneſs as is very dangerous, and inconſiſtent with the Intereſt of the Nation. What the Merchant loſes, is a Loſs to the Nation, one Man's Ruine commonly drawing on ma<g ref="char:EOLhyphen"/>ny others. Gold, they ſay, may be bought too dear; and I am ſure Cheapneſs bought with the Ruine of its Authors is the worſt way of buying it: But on the contrary, Plenty with a moderate Profit is what will ever be the Honour and Safety of a Kingdom.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33789:6"/>
+            <!-- PDF PAGE 70 -->
+         </div>
+      </body>
+   </text>
+</TEI>
